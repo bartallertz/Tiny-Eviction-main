@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8cf60a4a361a3c4b91dcf24f785e421, type: 3}
+  m_Name: Full Inventory
+  m_EditorClassIdentifier: 
+  savePath: /fullinventory_save
+  slots:
+  - ID: 0
+    item: {fileID: 11400000, guid: 25419e3e9e7598e4faf8372aa4d4e8ad, type: 2}
+  - ID: 1
+    item: {fileID: 11400000, guid: 356ecfb80298896428cc7fdb686a7a4f, type: 2}
+  - ID: 2
+    item: {fileID: 11400000, guid: 91ab4718599d2414487096060396d8b2, type: 2}
